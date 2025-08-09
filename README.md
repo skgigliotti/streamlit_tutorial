@@ -75,7 +75,7 @@ After you finish the exercises, I encourage you to deploy your app and share the
 
 ### Conclusion
 
-You have now cloned, modified and deployed your first Streamlit app!.
+Congratulations: You have now cloned, modified, and deployed your first Streamlit app!
 
 If you found this tutorial helpful, please give the repo a star and share it with your friends. 
 
