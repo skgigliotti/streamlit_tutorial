@@ -19,8 +19,9 @@ also requires you to create a virtual environment for the project using [uv](htt
    ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)).
 1. Clone your fork of this repo to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 1. Install uv ([instructions](https://docs.astral.sh/uv/#installation)). 
-1. In the project directory type `uv sync`. This will create a virtual environment in the project's `.venv` directory
-   that contains the same version of Python I used when developing this project. The virtual environment will also contain the same version of each package I used when creating the project. 
+1. In your terminal, navigate to the directory that contains this repository and type `uv sync`. This will create a
+   virtual environment in the project's `.venv` directory. This virtual environment will contain the same version of
+   Python I used when developing this project. It will also contain the same version of each package I used when creating this project. 
 
 The above instructions need to be executed just once.
 
