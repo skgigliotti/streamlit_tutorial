@@ -2,8 +2,8 @@
 
 After getting the app to work, try to make the following changes:
 
-1. Add a second graph that shows the change in Median Household Income over time. Place it below the graph that shows
-   total population.
+1. Add a second graph that shows the change in Median Household Income over time. You can do this by copy-pasting the
+   code that makes the first graph, and editing it slightly. Place it below the total population graph.
 1. Add a second select box that lets users select which demographic (population, income) to show. If the user selects
    "Total Population", only show the "Total Population" graph. If the user selects "Median Household Income", only show
    the "Median Household Income" graph.

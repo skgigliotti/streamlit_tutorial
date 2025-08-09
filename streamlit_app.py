@@ -4,7 +4,7 @@ import plotly.express as px
 
 df = pd.read_csv("state_data.csv")
 
-st.header("US States Demographics")
+st.header("US State Demographics")
 
 # Let user select which state to view
 state = st.selectbox("State:", df["State"].unique())
