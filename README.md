@@ -1,13 +1,13 @@
 # streamlit_tutorial
 
-This repo walks you through creating and deploy a data app in Python using
+This repo walks you through creating and deploying a data app in Python using
 [Streamlit](https://streamlit.io/). It contains:
 
   * A small demo app to help you get started with Streamlit. This app contains interesting, real-world data.
   * Instructions for installing and running the demo app on your local machine.
   * Exercises for improving the app. These exercises cover common real-world tasks that come up when
     working with Streamlit.
-  * Instructions for deploying your app to the internet. This will let you share your finished app with your friends and family.
+  * Instructions for deploying your app to the internet. This will let you share your finished app with friends and family.
 
 You can view a copy of the final app [here](https://arilamstein-tutorial.streamlit.app/).
 
@@ -17,8 +17,7 @@ This tutorial assumes that you have some familiarity with the terminal / command
 
 Prior exposure to git, github and Python would be helpful but is not required. 
 
-You do not need to have Python installed on your machine prior to starting this tutorial. That will be done in the
-"Setup" section below. 
+You do not need to have Python installed on your machine prior to starting this tutorial. 
 
 ### Setup
 
