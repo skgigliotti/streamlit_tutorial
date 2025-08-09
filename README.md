@@ -38,9 +38,10 @@ After completing the steps in the "Setup" section you can now run the demo app.
 1. Type `streamlit run streamlit_app.py` in the project's directory. 
 
 A browser should open that contains the demo app. It should look like this:
-<div style="text-align: center;">
-  <img src="screenshot-demo-app.png" alt="Demo App Screenshot" style="width: 50%;">
-</div>
+<p align="center">
+  <img src="screenshot-demo-app.png" alt="Demo App Screenshot" width="50%">
+</p>
+
 
 ### Learn the basics of Streamlit
 
