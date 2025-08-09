@@ -3,30 +3,32 @@
 This repo can teach you how to create and deploy data apps in Python using
 [Streamlit](https://streamlit.io/). It contains:
 
-  * A small to help you get started with Streamlit. This app contains interesting, real-world data.
+  * A small demo app to help you get started with Streamlit. This app contains interesting, real-world data.
   * Instructions for installing and running the sample app on your local machine.
   * Exercises to improve the app. Completing these exercises is where most of your learning will happen.
   * Instructions for deploying your app to the internet, so that you can share the finished app with friends and family.
 
 You can view the final app [here](https://arilamstein-tutorial.streamlit.app/).
 
-### Install the software
+### Setup
 
 This tutorial requires you to have your own fork of this repo, and a copy of your forked repo on your local machine. It
-also requires you to have [uv](https://docs.astral.sh/uv/) installed.
+also requires you to create a virtual environment for the project using [uv](https://docs.astral.sh/uv/).
 
 1. Start by forking this repository
    ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)).
 1. Clone your fork of this repo to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 1. Install uv ([instructions](https://docs.astral.sh/uv/#installation)). 
+1. In the project directory type `uv sync`. This will create a virtual environment with the project's dependencies in `.venv`. 
 
-### Run the app locally
+The above instructions need to be executed just once.
 
-The core of this tutorial is a set of exercises where I ask you to modify the demo app. Before you can work on the exercises,
+### Running the app
+
+Each time you want to run the app, you fiThe core of this tutorial is a set of exercises where I ask you to modify the demo app. Before you can work on the exercises,
 you must first run the demo app. And before you can do that, you must first create a virtual environment for the
 project.
 
-1. In the project directory type `uv sync`. This will create a virtual environment with the project's dependencies in `.venv`. 
 1. In the project directory type `source .venv/bin/activate`. This will activate the project's virtual environment. 
 1. In the project directory type `streamlit run streamlit_app.py`. 
 
