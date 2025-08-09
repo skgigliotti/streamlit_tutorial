@@ -8,7 +8,7 @@ This repo can teach you how to create and deploy data apps in Python using
   * Exercises to improve the app. Completing these exercises is where most of your learning will happen.
   * Instructions for deploying your app to the internet, so that you can share the finished app with friends and family.
 
-The final app you build will look like this:
+You can view the final app [here](https://arilamstein-tutorial.streamlit.app/).
 
 ### Install the software
 
@@ -44,8 +44,8 @@ If you see this, then congratulations! The setup is complete and you can now foc
    a button in the upper right that says "Rerun". Click it. The app should update with
    the new text.
 1. If you'd like a more structured introduction to Streamlit, take a loook at the free course
-   [30 Days of Streamlit](https://blog.streamlit.io/30-days-of-streamlit/) - that was my first introduction to
-   Streamlit, and I got a lot out of it.
+   [30 Days of Streamlit](https://blog.streamlit.io/30-days-of-streamlit/). That course was my first introduction to
+   Streamlit, and I found it helpful.
    
 ### Exercises 
 
