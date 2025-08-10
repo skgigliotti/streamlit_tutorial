@@ -24,7 +24,7 @@ You do not need to have Python installed on your machine prior to starting this 
    ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)).
 1. Clone your fork to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 1. Install uv ([instructions](https://docs.astral.sh/uv/#installation)). 
-1. In your terminal, navigate to the directory that contains this repository and type `uv sync`. This will create a
+1. In your terminal, navigate to the directory that contains this repo and type `uv sync`. This will create a
    virtual environment in the project's `.venv` directory.  
 
 The above instructions need to be executed just once.
@@ -34,7 +34,7 @@ The above instructions need to be executed just once.
 After completing the steps in the "Setup" section you can run the demo app.
 
 1. First activate the project's virtual environment: In the terminal, navigate to the project's directory and type `source .venv/bin/activate`.
-1. Type `streamlit run streamlit_app.py` in the project's directory. 
+1. Then type `streamlit run streamlit_app.py` in the terminal. 
 
 A browser should open that contains the demo app. It should look like this:
 <p align="center">
@@ -54,13 +54,13 @@ A browser should open that contains the demo app. It should look like this:
    
 ### Exercises 
 
-The best way to test and improve your Streamlit skills is to dive into some hands-on practice. Open the file
+The best way to learn Streamlit skills is to solve small, real-world problems. Open the file
 [exercises.md](exercises.md) and try completing the tasks listed there. They cover:
 1. Adding a new graph.
 1. Adding a new select box for user input.
 1. Creating tabs. 
-   
-My solutions are in `solution_app.py`.
+
+If you get stuck, check my solutions in `solution_app.py`.
 
 ### Publish your app
 
@@ -75,4 +75,4 @@ Congratulations: You have now cloned, modified, and deployed your first Streamli
 
 If you found this tutorial helpful, please give the repo a star and share it with your friends. 
 
-If you have feedback on the tutorial, you can contact me via my [website](https://arilamstein.com/).
+If you have feedback on the tutorial, feel free to reach out via my website: [AriLamstein.com](https://arilamstein.com/).
