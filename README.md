@@ -3,7 +3,7 @@
 This repo walks you through creating and deploying a data app in Python using
 [Streamlit](https://streamlit.io/). It contains:
 
-  * A small demo app to help you get started with Streamlit. This app contains interesting, real-world data.
+  * A small demo app to get you started. This app contains interesting, real-world data.
   * Instructions for installing, running, and modifying the demo app on your local machine.
   * Exercises for improving the app. These exercises cover common tasks when working with Streamlit.
   * Instructions for deploying your app to the internet. This will let you share your app with friends and family.
@@ -43,7 +43,7 @@ A browser should open that contains the demo app. It should look like this:
 
 ### Streamlit Basics
 
-1. While the app is running, open up the file [streamlit_app.py](streamlit_app.py). Can you guess what each line of
+1. While the app is running, open the file [streamlit_app.py](streamlit_app.py). Can you guess what each line of
    the file does?
 1. Streamlit apps can reload after you make changes to the source code. That is, you don't need to stop and restart the app to
    see the result of your changes. 
@@ -62,14 +62,14 @@ The best way to learn Streamlit is to solve small, real-world problems. Open the
 
 If you get stuck, check my solutions in `solution_app.py`.
 
-After you have finished working on the exercises, commit your changes and push them to github.
+After you have finished the exercises, commit your changes and push them to github.
 
 ### Deploying Your App
 
 Streamlit makes it easy to share your app with others. When your app is running, there should be a "Deploy" button in
 the upper right. Click it and follow the instructions that appear.
 
-After you finish the exercises, I encourage you to deploy your app and share it with friends and family!
+I encourage you to share your app with friends and family!
 
 ### Conclusion
 
