@@ -14,7 +14,7 @@ You can view a copy of the final app [here](https://arilamstein-tutorial.streaml
 
 This tutorial assumes that you have some familiarity with the terminal / command line. 
 
-Prior exposure to git, github, Python, and [uv](https://docs.astral.sh/uv/) would be helpful but is not necessary. 
+Prior experience with git, Python, and uv is helpful but not necessary. 
 
 You do not need to have Python installed on your machine prior to starting this tutorial. 
 
@@ -22,7 +22,7 @@ You do not need to have Python installed on your machine prior to starting this 
 
 1. Fork this repository in github
    ([instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo?tool=desktop)).
-1. Clone your fork of this repo to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
+1. Clone your fork to your local machine ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 1. Install uv ([instructions](https://docs.astral.sh/uv/#installation)). 
 1. In your terminal, navigate to the directory that contains this repository and type `uv sync`. This will create a
    virtual environment in the project's `.venv` directory.  
