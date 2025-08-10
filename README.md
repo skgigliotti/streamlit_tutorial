@@ -5,10 +5,10 @@ This repo walks you through creating and deploying a data app in Python using
 
   * A small demo app to get you started. This app contains interesting, real-world data.
   * Instructions for installing, running, and modifying the demo app on your local machine.
-  * Exercises for improving the app. These exercises cover common tasks when working with Streamlit.
+  * Exercises for improving the app. Solving these problems will help you learn Streamlit.
   * Instructions for deploying your app to the internet. This will let you share your app with friends and family.
 
-You can view a copy of the final app [here](https://arilamstein-tutorial.streamlit.app/).
+You can view the final app [here](https://arilamstein-tutorial.streamlit.app/).
 
 ### Prerequisites
 
@@ -16,7 +16,7 @@ This tutorial assumes that you have some familiarity with the terminal / command
 
 Prior experience with git, Python, and uv is helpful but not necessary. 
 
-You do not need to have Python installed on your machine prior to starting this tutorial. 
+You do not need to have Python installed prior to starting this tutorial. 
 
 ### Setup
 
@@ -29,7 +29,7 @@ You do not need to have Python installed on your machine prior to starting this 
 
 The above instructions need to be executed just once.
 
-### Running the Demo App
+### Run the Demo App
 
 After completing the steps in the "Setup" section you can run the demo app.
 
@@ -52,7 +52,7 @@ A browser should open that contains the demo app. It should look like this:
 1. The app should now have
    a button in the upper right that says "Rerun". Click it. The app should update with the new text.
    
-### Exercises 
+### Modify the App 
 
 The best way to learn Streamlit is to solve small, real-world problems. Open the file
 [exercises.md](exercises.md) and try completing the tasks listed there. They cover:
@@ -64,7 +64,7 @@ If you get stuck, check my solutions in `solution_app.py`.
 
 After you have finished the exercises, commit your changes and push them to github.
 
-### Deploying Your App
+### Deploy Your App
 
 Streamlit makes it easy to share your app with others. When your app is running, there should be a "Deploy" button in
 the upper right. Click it and follow the instructions that appear.
