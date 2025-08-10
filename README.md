@@ -14,7 +14,7 @@ You can view a copy of the final app [here](https://arilamstein-tutorial.streaml
 
 This tutorial assumes that you have some familiarity with the terminal / command line. 
 
-Prior exposure to git, github, Python, and [uv](https://docs.astral.sh/uv/) would be helpful but is not required. 
+Prior exposure to git, github, Python, and [uv](https://docs.astral.sh/uv/) would be helpful but is not necessary. 
 
 You do not need to have Python installed on your machine prior to starting this tutorial. 
 
@@ -60,7 +60,7 @@ The best way to test and improve your Streamlit skills is to dive into some hand
 1. Adding a new select box for user input.
 1. Creating tabs. 
    
-My solution to these exercises is in `solution_app.py`.
+My solutions are in `solution_app.py`.
 
 ### Publish your app
 
