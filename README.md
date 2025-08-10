@@ -43,7 +43,7 @@ A browser should open that contains the demo app. It should look like this:
 </p>
 
 
-### Learn the basics of Streamlit
+### Streamlit Basics
 
 1. While the app is running, open up the file [streamlit_app.py](streamlit_app.py). Can you guess what each line of
    the file does?
@@ -53,8 +53,6 @@ A browser should open that contains the demo app. It should look like this:
    `st.header` call (line 7) to be "Changes in US State Demographics Over Time". Save the file. 
 1. The app should now have
    a button in the upper right that says "Rerun". Click it. The app should update with the new text.
-1. If you'd like a more structured introduction to Streamlit, I recommend the free course
-   [30 Days of Streamlit](https://blog.streamlit.io/30-days-of-streamlit/).
    
 ### Exercises 
 
