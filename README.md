@@ -14,7 +14,7 @@ You can view the final app [here](https://arilamstein-tutorial.streamlit.app/).
 
 This tutorial assumes that you have some familiarity with the terminal / command line.  It also assumes that you have git installed on your local machine.
 
-Prior experience with git, Python, and uv is helpful but not necessary. 
+Prior experience with git and Python is helpful but not necessary. 
 
 You do not need to have Python installed prior to starting this tutorial. 
 
