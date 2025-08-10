@@ -29,7 +29,7 @@ You do not need to have Python installed on your machine prior to starting this 
 
 The above instructions need to be executed just once.
 
-### Running the app
+### Running the Demo App
 
 After completing the steps in the "Setup" section you can run the demo app.
 
@@ -54,7 +54,7 @@ A browser should open that contains the demo app. It should look like this:
    
 ### Exercises 
 
-The best way to learn Streamlit skills is to solve small, real-world problems. Open the file
+The best way to learn Streamlit is to solve small, real-world problems. Open the file
 [exercises.md](exercises.md) and try completing the tasks listed there. They cover:
 1. Adding a new graph.
 1. Adding a new select box for user input.
@@ -62,12 +62,14 @@ The best way to learn Streamlit skills is to solve small, real-world problems. O
 
 If you get stuck, check my solutions in `solution_app.py`.
 
-### Publish your app
+After you have finished working on the exercises, commit your changes and push them to github.
+
+### Deploying Your App
 
 Streamlit makes it easy to share your app with others. When your app is running, there should be a "Deploy" button in
 the upper right. Click it and follow the instructions that appear.
 
-After you finish the exercises, I encourage you to deploy your app and share the link with friends and family!
+After you finish the exercises, I encourage you to deploy your app and share it with friends and family!
 
 ### Conclusion
 
