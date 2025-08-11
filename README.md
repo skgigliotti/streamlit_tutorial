@@ -60,7 +60,7 @@ The best way to learn Streamlit is to solve small, real-world problems on an exi
 1. Using the value from an input widget when creating a graph. 
 1. Using tabs to make the app easier to navigate. 
 
-These are tasks that I often do when building my own apps. If you get stuck, check my solutions in `solution_app.py`.
+These are common tasks when working in Streamlit. If you get stuck, check my solutions in `solution_app.py`.
 
 After you have finished the exercises, commit your changes and push them to Github.
 
