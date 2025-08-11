@@ -54,10 +54,11 @@ A browser should open that contains the demo app. It should look like this:
    
 ### Modify the App 
 
-The best way to learn Streamlit is to solve small, real-world problems on an existing app. Open the file [exercises.md](exercises.md) and try completing the tasks listed there. They ask you to modify the demo app by:
+The best way to learn Streamlit is to solve small, real-world problems on an existing app. Open the file
+[exercises.md](exercises.md) and try to complete the tasks listed there. They ask you to modify the demo app by:
 1. Adding a new graph.
 1. Adding a new input widget.
-1. Using the value from an input widget when creating a graph. 
+1. Using the value from input widgets when creating a graph. 
 1. Using tabs to make the app easier to navigate. 
 
 These are common tasks when working in Streamlit. If you get stuck, check my solutions in `solution_app.py`.
