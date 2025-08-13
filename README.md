@@ -8,7 +8,7 @@ This repository walks you through creating and deploying a data app in Python us
   * Exercises for improving the app. Solving these problems will help you learn Streamlit.
   * Instructions for deploying your finished app to the internet. This will let you share it with friends and family.
 
-You can view the final app [here](https://arilamstein-tutorial.streamlit.app/).
+You can view the final app you will build [here](https://arilamstein-tutorial.streamlit.app/).
 
 ### Prerequisites
 
@@ -20,14 +20,13 @@ You do not need to have Python installed prior to starting this tutorial.
 
 ### Motivating Example
 
-I frequently use Jupyter Notebooks to import, transform and visualize data. From a practical perspective, there is a
-limit on how many visualizations I can include in a given notebook. I simply can't include every  graph that I think
-will interest people.
+I frequently use Jupyter Notebooks to convey analytical results. Each notebook typically imports a dataset,
+transforms it, and then presents a visualization or two. In short, each notebook tells a story about a dataset.
 
-Streamlit lets me easily convert the code in my Notebooks to be a website. The website lets the user easily flip between
-visualizations that interest them. 
+Streamlit lets me convert the code in my Notebooks to a web application. Instead of telling a story, I am now giving people a
+tool to explore the dataset themselves. 
 
-See an example [here](motivating_example.ipynb).
+Click [here](motivating_example.ipynb) to see an example.
 
 ### Setup
 
