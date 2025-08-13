@@ -2,7 +2,7 @@
 
 This repository walks you through creating and deploying a data app in Python using
 [Streamlit](https://streamlit.io/). It contains:
-
+  * A motivating example. What problem does Streamlit solve?
   * A small demo app to get you started. This app contains interesting, real-world data.
   * Instructions for installing, running, and modifying the demo app on your local machine.
   * Exercises for improving the app. Solving these problems will help you learn Streamlit.
@@ -17,6 +17,17 @@ This tutorial assumes that you have some familiarity with the terminal / command
 Prior experience with git and Python is helpful but not necessary. 
 
 You do not need to have Python installed prior to starting this tutorial. 
+
+### Motivating Example
+
+I frequently use Jupyter Notebooks to import, transform and visualize data. From a practical perspective, there is a
+limit on how many visualizations I can include in a given notebook. I simply can't include every  graph that I think
+will interest people.
+
+Streamlit lets me easily convert the code in my Notebooks to be a website. The website lets the user easily flip between
+visualizations that interest them. 
+
+See an example [here](motivating_example.ipynb).
 
 ### Setup
 
